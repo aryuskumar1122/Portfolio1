@@ -462,7 +462,7 @@ export default function Home() {
                   </div>
                   <div className="flex justify-end">
                     <a
-                      href="https://github.com/ShaMetO"
+                      href="https://github.com/Kushagra-Mangalam/endless_road"
                       className="text-primary hover:underline flex items-center gap-1"
                     >
                       View Project <ExternalLink size={16} />
@@ -503,7 +503,7 @@ export default function Home() {
                   </div>
                   <div className="flex justify-end">
                     <a
-                      href="https://github.com/ShaMetO"
+                      href="https://github.com/Rohitsontamu/Image-quality-assessment-cnn"
                       className="text-primary hover:underline flex items-center gap-1"
                     >
                       View Project <ExternalLink size={16} />
@@ -544,7 +544,7 @@ export default function Home() {
                   </div>
                   <div className="flex justify-end">
                     <a
-                      href="https://github.com/ShaMetO"
+                      href="https://github.com/Rohitsontamu/EDA-on-CRIIMES-IN-INDIA"
                       className="text-primary hover:underline flex items-center gap-1"
                     >
                       View Project <ExternalLink size={16} />
